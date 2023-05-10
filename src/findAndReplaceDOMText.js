@@ -1,6 +1,5 @@
 /**
  * findAndReplaceDOMText v 0.4.6
- *
  * Matches the text of a DOM node against a regular expression
  * and replaces each match (or node-separated portions of the match)
  * in the specified element.
